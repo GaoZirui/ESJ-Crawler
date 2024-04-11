@@ -2,6 +2,7 @@
 A small go program used to crawl light novels from ESJ and package them into txt and epub formats.
 
 ***This program will not collect your personal information in any way!!!***
+***Please do not use this software for any profit-making purposes, and obtain the translator's permission before crawling; the author is not responsible for any consequences! ! !***
 
 1. <u>Complete config file.</u>
 2. <u>Run Collector.exe</u>
