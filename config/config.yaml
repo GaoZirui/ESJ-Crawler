@@ -1,0 +1,12 @@
+LiNovelName:
+StorageRootPathForTXT: ./txt
+StorageRootPathForEPUB: ./epub
+LoginUrl: https://www.esjzone.me/inc/mem_login.php
+ChapterListUrl:
+LowerChapter: 0
+UpperChapter: 100
+Email:
+PassWord:
+ChapterListSelector: div[id='chapterList']
+ChapterTextSelector: div[class='forum-content mt-3'] > p
+MakeEPUB: on
